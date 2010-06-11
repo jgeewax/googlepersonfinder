@@ -1,0 +1,1002 @@
+# Copyright 2010 Google Inc.
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-02-04 21:40-0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: create.py:46
+msgid ""
+"The Given name and Family name are both required.  Please go back and try "
+"again."
+msgstr ""
+
+#: create.py:49
+msgid "The Original author's name is required.  Please go back and try again."
+msgstr ""
+
+#: create.py:51
+msgid ""
+"Your name is required in the \"Source\" section.  Please go back and try "
+"again."
+msgstr ""
+
+#: create.py:55 multiview.py:76 view.py:59
+msgid "Message is required. Please go back and try again."
+msgstr ""
+
+#: create.py:57 view.py:68
+msgid ""
+"Please check that you have been in contact with the person after the "
+"earthquake, or change the \"Status of this person\" field."
+msgstr ""
+
+#: create.py:64
+msgid ""
+"Original posting date is not in YYYY-MM-DD format, or is a nonexistent "
+"date.  Please go back and try again."
+msgstr ""
+
+#: create.py:66
+msgid "Date cannot be in the future.  Please go back and try again."
+msgstr ""
+
+#: create.py:72
+msgid ""
+"Photo uploaded is in an unrecognized format.  Please go back and try again."
+msgstr ""
+
+#: create.py:93
+msgid "The provided image is too large.  Please upload a smaller one."
+msgstr ""
+
+#: create.py:97
+msgid ""
+"There was a problem processing the image.  Please try a different image."
+msgstr ""
+
+#: multiview.py:80 view.py:63
+msgid ""
+"Your name is required in the \"About you\" section.  Please go back and try "
+"again."
+msgstr ""
+
+#: utils.py:75
+msgid "female"
+msgstr ""
+
+#: utils.py:76
+msgid "male"
+msgstr ""
+
+#: utils.py:77
+msgid "other"
+msgstr ""
+
+#: utils.py:89 utils.py:109
+msgid "Unspecified"
+msgstr ""
+
+#: utils.py:90
+msgid "I am seeking information"
+msgstr ""
+
+#: utils.py:91
+msgid "I am this person"
+msgstr ""
+
+#: utils.py:92
+msgid "I have received information that this person is alive"
+msgstr ""
+
+#: utils.py:93
+msgid "I have reason to think this person is missing"
+msgstr ""
+
+#: utils.py:94
+msgid "I have received information that this person is dead"
+msgstr ""
+
+#: utils.py:110
+msgid "Someone is seeking information"
+msgstr ""
+
+#: utils.py:111
+msgid "This person has posted a message"
+msgstr ""
+
+#: utils.py:113
+msgid "Someone has received information that this person is alive"
+msgstr ""
+
+#: utils.py:114
+msgid "Someone has reported that this person is missing"
+msgstr ""
+
+#: utils.py:116
+msgid "Someone has received information that this person is dead"
+msgstr ""
+
+#: utils.py:408
+msgid ""
+"There was an error processing your request.  Sorry for the inconvenience.  "
+"Our administrators will investigate the source of the problem, but please "
+"check that the format of your request is correct."
+msgstr ""
+
+#: templates/add_note.html:29
+msgid "Tell us the status of this person"
+msgstr ""
+
+#: templates/add_note.html:31 templates/results.html:116
+msgid "Mark records as duplicate"
+msgstr ""
+
+#: templates/add_note.html:39
+msgid "Status of this person"
+msgstr ""
+
+#: templates/add_note.html:60
+msgid "Message (required)"
+msgstr ""
+
+#: templates/add_note.html:64
+msgid "A message for this person or others seeking this person"
+msgstr ""
+
+#: templates/add_note.html:66
+msgid "Please explain why you think these are the same person"
+msgstr ""
+
+#: templates/add_note.html:84 templates/view.html:302
+msgid "Last known location"
+msgstr ""
+
+#: templates/add_note.html:87
+msgid ""
+"Type an address or open the map below and indicate the location by moving "
+"the pin."
+msgstr ""
+
+#: templates/add_note.html:102 templates/view.html:311
+msgid "Show Map"
+msgstr ""
+
+#: templates/add_note.html:107 templates/view.html:316
+msgid "Hide Map"
+msgstr ""
+
+#: templates/add_note.html:123
+msgid ""
+"Have you personally talked with this person AFTER the earthquake? (required)"
+msgstr ""
+
+#: templates/add_note.html:133
+msgid "Yes"
+msgstr ""
+
+#: templates/add_note.html:141
+msgid "No"
+msgstr ""
+
+#: templates/add_note.html:152
+msgid "Missing person's current contact information"
+msgstr ""
+
+#: templates/add_note.html:155
+msgid "How can this person be reached now?"
+msgstr ""
+
+#: templates/add_note.html:161
+msgid "Phone number"
+msgstr ""
+
+#: templates/add_note.html:172
+msgid "E-mail address"
+msgstr ""
+
+#: templates/add_note.html:188
+msgid "About you (required)"
+msgstr ""
+
+#: templates/add_note.html:191
+msgid "How others who are interested in this person can contact you"
+msgstr ""
+
+#: templates/add_note.html:198 templates/create.html:219
+msgid "Your name"
+msgstr ""
+
+#: templates/add_note.html:208 templates/create.html:233
+msgid "Your phone number"
+msgstr ""
+
+#: templates/add_note.html:218 templates/create.html:247
+msgid "Your e-mail address"
+msgstr ""
+
+#: templates/add_note.html:234
+msgid "Yes, these are the same person"
+msgstr ""
+
+#: templates/add_note.html:236 templates/create.html:295
+msgid "Save this record"
+msgstr ""
+
+#: templates/add_note.html:239
+msgid "Cancel"
+msgstr ""
+
+#: templates/base.html:31
+msgid "Google Person Finder: Haiti Earthquake"
+msgstr ""
+
+#: templates/base.html:55 templates/base.html.py:71
+msgid "Person Finder: Haiti Earthquake"
+msgstr ""
+
+#: templates/base.html:78 templates/base.html.py:81
+#: templates/developers.html:216 templates/embed.html:39
+#: templates/view.html:227
+msgid "Back to start"
+msgstr ""
+
+#: templates/base.html:86
+msgid ""
+"PLEASE NOTE: All data entered will be available to the public and viewable "
+"and usable by anyone.  Google does not review or verify the accuracy of this "
+"data."
+msgstr ""
+
+#: templates/base.html:92 templates/base.html.py:94
+msgid "Embed this tool on your site"
+msgstr ""
+
+#: templates/base.html:98 templates/base.html.py:100
+msgid "Developers"
+msgstr ""
+
+#: templates/base.html:104
+msgid "Terms of Service"
+msgstr ""
+
+#: templates/create.html:31
+msgid "Identify who you have information about"
+msgstr ""
+
+#: templates/create.html:33
+msgid "Identify who you are looking for"
+msgstr ""
+
+#: templates/create.html:40
+msgid "Name (required)"
+msgstr ""
+
+#: templates/create.html:43
+msgid "What is this person's name?"
+msgstr ""
+
+#: templates/create.html:49 templates/multiview.html:46
+#: templates/query.html:38 templates/view.html:43
+msgid "Given name"
+msgstr ""
+
+#: templates/create.html:60 templates/multiview.html:50
+#: templates/query.html:52 templates/view.html:47
+msgid "Family name"
+msgstr ""
+
+#: templates/create.html:74
+msgid "Home Address"
+msgstr ""
+
+#: templates/create.html:77
+msgid "Where is this person from?"
+msgstr ""
+
+#: templates/create.html:83 templates/multiview.html:59 templates/view.html:80
+msgid "Street name"
+msgstr ""
+
+#: templates/create.html:85
+msgid "Street name only, no number"
+msgstr ""
+
+#: templates/create.html:93 templates/multiview.html:63 templates/view.html:84
+msgid "Neighborhood"
+msgstr ""
+
+#: templates/create.html:102 templates/multiview.html:67
+#: templates/view.html:88
+msgid "City"
+msgstr ""
+
+#: templates/create.html:111 templates/multiview.html:71
+#: templates/view.html:92
+msgid "Province or state"
+msgstr ""
+
+#: templates/create.html:121 templates/multiview.html:75
+#: templates/view.html:96
+msgid "Postal or zip code"
+msgstr ""
+
+#: templates/create.html:134
+msgid "Description"
+msgstr ""
+
+#: templates/create.html:137
+msgid "Describe how to identify this person."
+msgstr ""
+
+#: templates/create.html:152 templates/multiview.html:97
+#: templates/view.html:124
+msgid "Photo"
+msgstr ""
+
+#: templates/create.html:155
+msgid "If you have a photo of this person, upload it or enter its URL address."
+msgstr ""
+
+#: templates/create.html:163
+msgid "URL"
+msgstr ""
+
+#: templates/create.html:175
+msgid "Upload"
+msgstr ""
+
+#: templates/create.html:188
+msgid "Source of this record (required)"
+msgstr ""
+
+#: templates/create.html:191
+msgid "Where did this information come from?"
+msgstr ""
+
+#: templates/create.html:202
+msgid "This is a new record."
+msgstr ""
+
+#: templates/create.html:210
+msgid "This record is copied from another source."
+msgstr ""
+
+#: templates/create.html:223
+msgid "Original author's name"
+msgstr ""
+
+#: templates/create.html:237 templates/multiview.html:123
+#: templates/view.html:147
+msgid "Author's phone number"
+msgstr ""
+
+#: templates/create.html:251 templates/multiview.html:137
+#: templates/view.html:160
+msgid "Author's e-mail address"
+msgstr ""
+
+#: templates/create.html:261
+msgid "URL of original record"
+msgstr ""
+
+#: templates/create.html:271 templates/multiview.html:161
+#: templates/view.html:181
+msgid "Original posting date"
+msgstr ""
+
+#: templates/create.html:273
+msgid "Enter as YYYY-MM-DD"
+msgstr ""
+
+#: templates/create.html:282 templates/multiview.html:165
+#: templates/view.html:185
+msgid "Original site name"
+msgstr ""
+
+#: templates/developers.html:21 templates/embed.html:21
+msgid "Embedding the Application"
+msgstr ""
+
+#: templates/developers.html:23 templates/embed.html:22
+msgid "Copy and paste the following HTML code to put this tool on your site"
+msgstr ""
+
+#: templates/developers.html:31 templates/embed.html:30
+msgid "This gadget is made available under the"
+msgstr ""
+
+#: templates/developers.html:32 templates/embed.html:30
+msgid "Apache 2.0 license"
+msgstr ""
+
+#: templates/developers.html:34
+msgid ""
+"Any data you receive by collaborating with Google in connection with the "
+"gadget is shared under a "
+msgstr ""
+
+#: templates/developers.html:35
+msgid "Creative Commons license"
+msgstr ""
+
+#: templates/developers.html:38
+msgid "Feedback and Discussion"
+msgstr ""
+
+#: templates/developers.html:40
+msgid ""
+"To provide feedback on the People Finder application or to ask questions of "
+"the developers or other users, please join the "
+msgstr ""
+
+#: templates/developers.html:42
+msgid "mailing list."
+msgstr ""
+
+#: templates/developers.html:44
+msgid "Other resources:"
+msgstr ""
+
+#: templates/developers.html:47
+msgid "Haiti Relief Wiki"
+msgstr ""
+
+#: templates/developers.html:49
+msgid "Google Person Finder Blog"
+msgstr ""
+
+#: templates/developers.html:53
+msgid "Downloading Data"
+msgstr ""
+
+#: templates/developers.html:55
+msgid ""
+"The Person Finder application stores and exports records using the People "
+"Finder Interchange Format (PFIF), which is based on XML."
+msgstr ""
+
+#: templates/developers.html:56
+msgid "Documentation on the format is available here:"
+msgstr ""
+
+#: templates/developers.html:59
+msgid "PFIF 1.2 Specification"
+msgstr ""
+
+#: templates/developers.html:61
+msgid "PFIF 1.2 example document"
+msgstr ""
+
+#: templates/developers.html:63
+msgid "PFIF 1.1 Specification"
+msgstr ""
+
+#: templates/developers.html:65
+msgid "PFIF 1.1 example document"
+msgstr ""
+
+#: templates/developers.html:67
+msgid "PFIF FAQ and Implementation Guidelines"
+msgstr ""
+
+#: templates/developers.html:69
+msgid "XML Specification"
+msgstr ""
+
+#: templates/developers.html:73
+msgid "Person Finder now supports PFIF 1.2."
+msgstr ""
+
+#: templates/developers.html:76
+msgid "There are several ways to download records from our database:"
+msgstr ""
+
+#: templates/developers.html:78
+msgid "Atom Feeds"
+msgstr ""
+
+#: templates/developers.html:80
+msgid "PFIF 1.2 person and note feeds are available here:"
+msgstr ""
+
+#: templates/developers.html:84
+msgid ""
+"By default, these feeds return the most recently added person records or "
+"note records in reverse chronological order."
+msgstr ""
+
+#: templates/developers.html:85
+msgid "These query parameters are supported:"
+msgstr ""
+
+#: templates/developers.html:88
+msgid "Return up to the specified number of results (maximum 200)."
+msgstr ""
+
+#: templates/developers.html:90
+msgid ""
+"Skip the specified number of records before returning the next "
+"<code>max_results</code> results."
+msgstr ""
+
+#: templates/developers.html:92
+msgid ""
+"Return only results with an <code>entry_date</code> greater than or equal to "
+"the specified timestamp, which should be in <code>yyyy-mm-ddThh:mm:ssZ</"
+"code> format.  If this parameter is specified, results will be returned in "
+"forward chronological order."
+msgstr ""
+
+#: templates/developers.html:94
+msgid ""
+"Return only notes for this person record.  This parameter is only valid for "
+"the note feed."
+msgstr ""
+
+#: templates/developers.html:98
+msgid ""
+"You can use the <code>person_record_id</code> parameter to subscribe to a "
+"feed of notes on a specific person."
+msgstr ""
+
+#: templates/developers.html:101
+msgid ""
+"If you need to keep another database synchronized with the Google Person "
+"Finder database, you can use the <code>min_entry_date</code> and <code>skip</"
+"code> parameters to produce incremental updates."
+msgstr ""
+
+#: templates/developers.html:102
+msgid ""
+"Use the latest <code>entry_date</code> you have previously received from "
+"Google Person Finder as the <code>min_entry_date</code> for your first "
+"request."
+msgstr ""
+
+#: templates/developers.html:103
+msgid ""
+"Then take the latest <code>entry_date</code> in the batch you receive, and "
+"use it as the <code>min_entry_date</code> for your next request."
+msgstr ""
+
+#: templates/developers.html:104
+msgid ""
+"Use the <code>skip</code> parameter to skip the records you already received "
+"that have the same <code>entry_date</code>."
+msgstr ""
+
+#: templates/developers.html:107
+msgid "Daily Snapshot"
+msgstr ""
+
+#: templates/developers.html:109
+msgid ""
+"You can download a daily snapshot of all the data formatted in PFIF XML."
+msgstr ""
+
+#: templates/developers.html:110
+msgid "These snapshots are in PFIF 1.2."
+msgstr ""
+
+#: templates/developers.html:111
+msgid ""
+"Each zip file contains one XML document with just the person records, and "
+"another XML document with just the note records."
+msgstr ""
+
+#: templates/developers.html:112
+msgid ""
+"To protect user privacy, these snapshots omit the date of birth, e-mail "
+"address, and telephone number fields.  The omitted information can be viewed "
+"interactively on the pages on this site."
+msgstr ""
+
+#: templates/developers.html:118
+msgid "Individual Person Record API"
+msgstr ""
+
+#: templates/developers.html:120
+msgid ""
+"If you know the PFIF person_record_id of a person, you can fetch the "
+"person's PFIF record (with notes) in XML format, at the following URL:"
+msgstr ""
+
+#: templates/developers.html:123
+msgid ""
+"For compatibility with existing clients, the above URL returns a PFIF 1.1 "
+"document.  For PFIF 1.2, use the following URL:"
+msgstr ""
+
+#: templates/developers.html:127
+msgid "Uploading Data"
+msgstr ""
+
+#: templates/developers.html:129
+msgid ""
+"You can also push one or more PFIF records to the Person Finder by posting "
+"an XML file to the following URL:"
+msgstr ""
+
+#: templates/developers.html:133
+msgid "Both PFIF 1.1 and 1.2 are accepted."
+msgstr ""
+
+#: templates/developers.html:134
+msgid "To obtain an auth_key, please contact"
+msgstr ""
+
+#: templates/developers.html:136
+msgid "or"
+msgstr ""
+
+#: templates/developers.html:138
+msgid ""
+"You will need to tell them which PFIF source domain you will be using the "
+"key for, and the key can only be used to upload person records whose "
+"person_record_id is prefixed with that domain."
+msgstr ""
+
+#: templates/developers.html:141
+msgid ""
+"Once you have prepared an XML file, the following command-line can be used "
+"to upload it:"
+msgstr ""
+
+#: templates/developers.html:146
+msgid ""
+"The XML document can contain &lt;pfif:person&gt; elements with nested &lt;"
+"pfif:note&gt; elements."
+msgstr ""
+
+#: templates/developers.html:147
+msgid "To understand the proper XML format, see the"
+msgstr ""
+
+#: templates/developers.html:149
+msgid ""
+"We recommend that you upload a single record or a small number of records as "
+"a test, retrieve the records using the Individual Person Record API (/api/"
+"read), and view the records on the site to verify that the results are what "
+"you expected."
+msgstr ""
+
+#: templates/developers.html:150
+msgid ""
+"Pay careful attention to the handling of accented letters, note text, source "
+"URLs, and photo URLs (if you have them)."
+msgstr ""
+
+#: templates/developers.html:153
+msgid ""
+"Due to the size limitation on POST requests, you should split up files into "
+"batches of 100 &lt;pfif:person&gt; elements."
+msgstr ""
+
+#: templates/developers.html:154
+msgid ""
+"If you encounter an error, or need to correct problems in a previous upload, "
+"it is safe to upload the same records again.  Records will replace existing "
+"records with the same person_record_id or note_record_id."
+msgstr ""
+
+#: templates/developers.html:157
+msgid "The response will be an XML document like this:"
+msgstr ""
+
+#: templates/developers.html:180
+msgid ""
+"Each &lt;status:write> element describes one batch of writes.  &lt;status:"
+"record_type> is the type of the batch.  &lt;status:parsed> says how many XML "
+"records were successfully parsed.  &lt;status:written> says how many were "
+"written to the datastore.  In the above example, 1 person and 1 note were "
+"successfully written."
+msgstr ""
+
+#: templates/developers.html:182
+msgid "When there are problems it will look like this:"
+msgstr ""
+
+#: templates/developers.html:208
+msgid ""
+"Each &lt;status:skipped> entry describes the reason why a particular record "
+"was skipped, and includes the record ID if one was given."
+msgstr ""
+
+#: templates/developers.html:210
+msgid ""
+"When you upload person or note records, you will be replacing any existing "
+"records with the same record ID.  It should be safe to upload the same data "
+"multiple times while you fix formatting problems."
+msgstr ""
+
+#: templates/developers.html:214 templates/embed.html:37
+msgid "Close window"
+msgstr ""
+
+#: templates/embed.html:33
+msgid "More information for developers can now be found"
+msgstr ""
+
+#: templates/embed.html:33
+msgid "here"
+msgstr ""
+
+#: templates/main.html:22
+msgid "What is your situation?"
+msgstr ""
+
+#: templates/main.html:28 templates/query.html:31
+msgid "I'm looking for someone"
+msgstr ""
+
+#: templates/main.html:33 templates/query.html:28
+msgid "I have information about someone"
+msgstr ""
+
+#: templates/main.html:39
+#, python-format
+msgid "Currently tracking about %(num_people)s records."
+msgstr ""
+
+#: templates/multiview.html:37
+msgid "Compare these records"
+msgstr ""
+
+#: templates/multiview.html:42 templates/view.html:40
+msgid "Name"
+msgstr ""
+
+#: templates/multiview.html:55 templates/results.html:75
+#: templates/view.html:77
+msgid "Home address"
+msgstr ""
+
+#: templates/multiview.html:81 templates/view.html:109
+msgid "Other information"
+msgstr ""
+
+#: templates/multiview.html:115 templates/view.html:140
+msgid "Source of this record"
+msgstr ""
+
+#: templates/multiview.html:119 templates/view.html:143
+msgid "Author's name"
+msgstr ""
+
+#: templates/multiview.html:130 templates/multiview.html.py:144
+#: templates/view.html:154 templates/view.html.py:167 templates/view.html:255
+#: templates/view.html.py:266 templates/view.html:339
+#: templates/view.html.py:354
+msgid "(click to reveal)"
+msgstr ""
+
+#: templates/multiview.html:152 templates/view.html:174
+msgid "Original URL"
+msgstr ""
+
+#: templates/multiview.html:156 templates/view.html:177
+msgid "Link"
+msgstr ""
+
+#: templates/query.html:29
+msgid "Enter the person's given and family names."
+msgstr ""
+
+#: templates/query.html:32
+msgid ""
+"Enter at least the first two letters of the person's given and family names."
+msgstr ""
+
+#: templates/query.html:69 templates/query.html.py:76 templates/query.html:79
+msgid "Search for this person"
+msgstr ""
+
+#: templates/query.html:71
+msgid "Provide information about this person"
+msgstr ""
+
+#: templates/results.html:22
+msgid "Search Results for"
+msgstr ""
+
+#: templates/results.html:27
+msgid "Records Similar to"
+msgstr ""
+
+#: templates/results.html:32 templates/results.html.py:42
+msgid "There is one existing record with a similar name."
+msgstr ""
+
+#: templates/results.html:34
+msgid "There are some existing records with similar names."
+msgstr ""
+
+#: templates/results.html:36
+msgid "Please check whether it matches the person you were planning to report."
+msgstr ""
+
+#
+#: templates/results.html:44
+#, python-format
+msgid "There are %(num_results)s existing records with similar names."
+msgstr ""
+
+#: templates/results.html:48
+msgid "Click here to view results."
+msgstr ""
+
+#: templates/results.html:52
+msgid "To view or add information, select a name below."
+msgstr ""
+
+#: templates/results.html:53
+msgid "Switch to duplicate marking mode"
+msgstr ""
+
+#: templates/results.html:54
+msgid "Switch to normal view mode"
+msgstr ""
+
+#: templates/results.html:93 templates/view.html:287
+msgid "Status"
+msgstr ""
+
+#: templates/results.html:95
+msgid "Has been in contact with someone"
+msgstr ""
+
+#: templates/results.html:97
+msgid "Unknown"
+msgstr ""
+
+#: templates/results.html:110
+msgid "Select up to 3 records to mark as duplicate:"
+msgstr ""
+
+#: templates/results.html:117
+msgid "Records selected"
+msgstr ""
+
+#: templates/results.html:127
+msgid ""
+"If none of these records match the person you had in mind, you can click "
+"below to create a new record."
+msgstr ""
+
+#: templates/results.html:131
+msgid "No results found for"
+msgstr ""
+
+#: templates/results.html:134
+msgid "We have nothing matching your search."
+msgstr ""
+
+#: templates/results.html:138 templates/small-create.html:26
+msgid "Follow this link to create a new record"
+msgstr ""
+
+#: templates/results.html:152 templates/small-create.html:20
+msgid "Create a new record for"
+msgstr ""
+
+#: templates/results.html:154
+msgid "Create a new record for a missing person"
+msgstr ""
+
+#: templates/reveal.html:21
+msgid "Show sensitive information"
+msgstr ""
+
+#: templates/reveal.html:24
+#, python-format
+msgid ""
+"\n"
+"      You are currently signed in as <span class=\"email\">%(email)s</"
+"span>.\n"
+"    "
+msgstr ""
+
+#: templates/reveal.html:31
+msgid "Proceed"
+msgstr ""
+
+#: templates/reveal.html:34
+#, python-format
+msgid ""
+"\n"
+"      To see this sensitive information, you have to\n"
+"      <a href=\"%(login_url)s\">sign in</a>.\n"
+"    "
+msgstr ""
+
+#: templates/view.html:36
+msgid "Identifying information"
+msgstr ""
+
+#: templates/view.html:55
+msgid "Physical characteristics"
+msgstr ""
+
+#: templates/view.html:58
+msgid "Sex"
+msgstr ""
+
+#: templates/view.html:64
+msgid "Date of birth"
+msgstr ""
+
+#: templates/view.html:69
+msgid "Age"
+msgstr ""
+
+#: templates/view.html:100
+msgid "Home country"
+msgstr ""
+
+#: templates/view.html:198
+msgid "Possible duplicates"
+msgstr ""
+
+#: templates/view.html:225
+msgid "Back to results list"
+msgstr ""
+
+#: templates/view.html:232
+msgid "Status updates for this person"
+msgstr ""
+
+#: templates/view.html:237
+msgid "Posted by"
+msgstr ""
+
+#: templates/view.html:241
+msgid "(unknown)"
+msgstr ""
+
+#: templates/view.html:250
+msgid "E-mail"
+msgstr ""
+
+#: templates/view.html:261
+msgid "Phone"
+msgstr ""
+
+#: templates/view.html:279
+msgid "This record is a duplicate of"
+msgstr ""
+
+#: templates/view.html:296
+msgid "Missing person has been in contact with someone"
+msgstr ""
+
+#: templates/view.html:332
+msgid "Missing person's current e-mail address"
+msgstr ""
+
+#: templates/view.html:347
+msgid "Missing person's current phone number"
+msgstr ""
+
+#: templates/view.html:367
+msgid "No status updates have been posted"
+msgstr ""
